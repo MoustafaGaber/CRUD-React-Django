@@ -1,0 +1,17 @@
+1-vritualenv myenv
+2-activate myenv(myenv\scripts\activate)
+3-install django(Pip install django )
+4-create django project(django-admin startproject project_name)
+5-navigate to project folder 
+5-create django app(python manage.py startapp app_name)
+6-pip install djangorestframework django-cors-headers
+7-setting : CORS_ALLOW_ALL_ORIGINS = True
+8- in setting registing installed app(myapp-django rest-cors-headers)
+9- sitting : "corsheaders.middleware.CorsMiddleware",
+ Create a react app using vite
+ 1-npm create vite@latest frontend -- --template react
+ 2-navigate to project folder 
+ 3-npm i
+ 4- npm run dev
+ 
+
